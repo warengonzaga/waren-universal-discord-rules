@@ -13,7 +13,7 @@ The standard universal set of rules for moderating community Discord servers.
 
 ## Related Projects
 
-- _Some connected projects here_.
+- _[WUDR Website](https://github.com/warengonzaga/wudr-site)_.
 
 ## Contributing
 
