@@ -1,10 +1,8 @@
 # Waren's Universal Discord Rules (WUDR)
 
-[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/waren-universal-discord-rules?color=green&style=flat-square) ![License](https://img.shields.io/github/license/warengonzaga/waren-universal-discord-rules.svg?style=flat-square)
+[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/waren-universal-discord-rules?color=green&style=flat-square) ![License](https://img.shields.io/badge/license-CC%20BY--ND%204.0-orange.svg?longCache=true&style=flat-square)
 
 The standard universal set of rules for moderating community Discord servers.
-
----
 
 ## Used by Discord Servers
 
@@ -16,8 +14,6 @@ The standard universal set of rules for moderating community Discord servers.
 ## Related Projects
 
 - _Some connected projects here_.
-
----
 
 ## Contributing
 
