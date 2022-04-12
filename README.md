@@ -6,7 +6,10 @@ The standard universal set of rules for moderating community Discord servers.
 
 ## Used by Discord Servers
 
-- _[Neutron Nation](https://wrngnz.ga/discord)_
+- _[Neutron Nation](https://discord.gg/MzSm76Eqgq)_
+- _[Wareneutron Developers](https://discord.gg/6Gzxwtt)_
+- _[Polygon Guild Manila](https://discord.gg/UsrhBZWpzX)_
+- _[Thirdweb Community](https://discord.gg/thirdweb)_
 - _Your server invite link goes here_
 
 > Wanna see your discord server here? Let us know!
