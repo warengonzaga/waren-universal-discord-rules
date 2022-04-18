@@ -1,6 +1,6 @@
 # Waren's Universal Discord Rules (WUDR)
 
-[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/waren-universal-discord-rules?color=green&style=flat-square) [![license](https://img.shields.io/github/license/warengonzaga/waren-universal-discord-rules.svg?style=flat-square)](https://github.com/warengonzaga/waren-universal-discord-rules/blob/main/license)
+[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/waren-universal-discord-rules?color=green&style=flat-square) [![license](https://img.shields.io/github/license/warengonzaga/waren-universal-discord-rules.svg?style=flat-square)](https://github.com/warengonzaga/waren-universal-discord-rules/blob/main/LICENSE)
 
 Standard and universal set of rules for moderating community on Discord. 📜💻🌈
 
