@@ -15,6 +15,7 @@ Motivation behind is to create a standard and universal set of rules to be re-us
 - _[Polygon Guild Manila](https://discord.gg/UsrhBZWpzX)_
 - _[Thirdweb Community](https://discord.gg/thirdweb)_
 - _[Open Source Software Philippines](https://discord.gg/M6xBHtqmka)_
+- _[Algo Filipino Community](https://discord.gg/fkJKBptEwn)_
 - _Your server invite link goes here_
 
 > If you're using my set of rules feel free to request to add your community invite link here.
