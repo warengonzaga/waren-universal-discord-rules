@@ -6,6 +6,8 @@ Standard and universal set of rules for moderating community on Discord. 📜�
 
 Motivation behind is to create a standard and universal set of rules to be re-used and update depending on the type of community you are moderating. 🤘
 
+📜 **[See The Complete Rules Here](./RULES.md)** 📜
+
 ## ✨ Used by Awesome Communities
 
 - _[Neutron Nation](https://discord.gg/MzSm76Eqgq)_
