@@ -4,15 +4,15 @@ Any contributions are welcome, encouraged, and valued. See the following informa
 
 ## 📋 Code of Conduct
 
-This project and everyone participating in it is governed by the **Waren's Universal Discord Rules** [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to <opensource@warengonzaga.com>.
+This project and everyone participating in it is governed by the Waren's Universal Discord Rules [Code of Conduct](./code_of_conduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to <opensource@warengonzaga.com>.
 
 ## 💖 How to Contribute
 
 There are many ways to contribute to this open source project. Any contributions are welcome and appreciated. Be sure to read the details of each section for you to start contributing.
 
-### 📖 Documentation
+### Improve Rules
 
-(coming soon)
+- You can contribut by improving the rules indicated here.
 
 ---
 

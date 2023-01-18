@@ -1,12 +1,12 @@
 # Waren's Universal Discord Rules (WUDR)
 
-[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/waren-universal-discord-rules?color=green&style=flat-square) [![license](https://img.shields.io/github/license/warengonzaga/waren-universal-discord-rules?style=flat-square)](https://github.com/warengonzaga/waren-universal-discord-rules/blob/main/LICENSE)
+[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) ![Version](https://img.shields.io/github/release/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Stars](https://img.shields.io/github/stars/warengonzaga/waren-universal-discord-rules.svg?style=flat-square) ![Size](https://img.shields.io/github/repo-size/warengonzaga/waren-universal-discord-rules?color=green&style=flat-square) [![license](https://img.shields.io/github/license/warengonzaga/waren-universal-discord-rules?style=flat-square)](https://github.com/warengonzaga/waren-universal-discord-rules/blob/main/license)
 
 Standard and universal set of rules for moderating community on Discord. 📜💻🌈
 
 Motivation behind is to create a standard and universal set of rules to be re-used and update depending on the type of community you are moderating. 🤘
 
-📜 **[See The Complete Rules Here](./RULES.md)** 📜
+📜 **[See The Complete Rules Here](./rules.md)** 📜
 
 ## ✨ Used by Awesome Communities
 
@@ -25,13 +25,13 @@ Motivation behind is to create a standard and universal set of rules to be re-us
 
 Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!
 
-Read the project's [contributing guide](./CONTRIBUTING.md) for more info.
+Read the project's [contributing guide](./contributing.md) for more info.
 
 ## 🐛 Issues
 
 Please report any issues and bugs by [creating a new issue here](https://github.com/warengonzaga/waren-universal-discord-rules/issues/new/choose), also make sure you're reporting an issue that doesn't exist. Any help to improve the project would be appreciated. Thanks! 🙏✨
 
-## 🍀 Sponsors and Supporters
+## 🍀 Sponsor
 
 > Love what I do? **[Send me some coffees](https://warengonzaga.com/donate)**! ☕☕☕
 >
@@ -40,7 +40,7 @@ Please report any issues and bugs by [creating a new issue here](https://github.
 
 ## 📋 Code of Conduct
 
-Read the project's [code of conduct](./CODE_OF_CONDUCT.md).
+Read the project's [code of conduct](./code_of_conduct.md).
 
 ## 📃 License
 
@@ -54,4 +54,4 @@ Waren's Universal Discord Rules is created by **[Waren Gonzaga](https://github.c
 
 ---
 
-💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [He is Awesome](https://www.youtube.com/watch?v=HHrxS4diLew&t=44s) 🙏
